@@ -1,6 +1,6 @@
-# architecture_demos
+# mvvm architecture_demo
 
-A new Flutter project.
+A new Flutter project. 3.0.5
 
 ## Getting Started
 
